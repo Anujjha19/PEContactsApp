@@ -16,13 +16,13 @@ This is a simple Contacts application built with React. It allows you to view a 
 
    ```shell
    git clone https://github.com/Anujjha19/PEContactsApp
-2.Navigate to the project directory:
+2. Navigate to the project directory:  
 cd contacts-app
-3. Install the dependencies:
+3. Install the dependencies:  
 npm install
-4.Start the development server:
+4. Start the development server: 
 npm start
-5.Open your browser and visit http://localhost:3000 to view the Contacts App.
+5. Open your browser and visit http://localhost:3000 to view the Contacts App.
 
 ##
 - The public/ folder contains the index.html file, which is the entry point for the application.
